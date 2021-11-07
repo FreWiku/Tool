@@ -1,0 +1,7 @@
+
+pandas==1.2.4
+numpy==1.20.1
+math==unknown
+ipywidgets==7.6.3
+io==unknown
+watermark==2.2.0
